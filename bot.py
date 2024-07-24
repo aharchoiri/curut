@@ -876,9 +876,6 @@ def print_welcome_message():
     print(Fore.GREEN + Style.BRIGHT + "\n=============================================")
     print(Fore.YELLOW + Style.BRIGHT + "\n\rRecode By Una Davina ( https://t.me/unadavina )")
     print(Fore.GREEN + Style.BRIGHT + "\n=============================================")
-#print kombo
-    print(Fore.GREEN + Style.BRIGHT + f"\rKombo: {njaluk_kombo("item")}", flush=True)
-    print(Fore.GREEN + Style.BRIGHT + "\n=============================================")
 
 if __name__ == "__main__":
     main()
