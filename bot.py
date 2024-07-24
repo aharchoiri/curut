@@ -877,7 +877,6 @@ def print_welcome_message():
     print(Fore.YELLOW + Style.BRIGHT + "\n\rRecode By Una Davina ( https://t.me/unadavina )")
     print(Fore.GREEN + Style.BRIGHT + "\n=============================================")
 #print kombo
-    (Fore.GREEN + Style.BRIGHT + f"\r\nKombo Tanggal: {njaluk_kombo("tanggal")}", flush=True)
     print(Fore.GREEN + Style.BRIGHT + f"\rKombo: {njaluk_kombo("item")}", flush=True)
     print(Fore.GREEN + Style.BRIGHT + "\n=============================================")
 
